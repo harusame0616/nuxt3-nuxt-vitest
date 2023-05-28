@@ -9,7 +9,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/test-utils": "^3.5.1",
     "@types/node": "^18",
-    "nuxt": "^3.5.1"
+    "nuxt": "^3.5.1",
+    "playwright": "^1.34.3",
+    "vitest": "^0.31.1"
   }
 }
